@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there! 👋 I'm Avishi Pandya
+
+🎓 1st Year B.Tech Student | Computer Science Engineering  
+🔍 Specialization: Data Science  
+💡 Passionate about Python, Machine Learning & Analytics  
+🌱 Currently learning Git, Python, and Data Analysis  
+✨ Exploring real-world projects and growing as a developer  
+📫 Connect with me on [LinkedIn]https://www.linkedin.com/in/avishi-pandya-89b74836b/
 
 <!--
 **Avishi-Pandya/Avishi-Pandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
